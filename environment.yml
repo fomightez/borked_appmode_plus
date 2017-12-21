@@ -3,8 +3,7 @@ channels:
 dependencies:
   - ipyvolume
   - appmode
-  - vpnotebook
-  - vpython
   - seaborn
   - matplotlib_venn
   - statsmodels
+  - vpython
