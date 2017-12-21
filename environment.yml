@@ -5,4 +5,3 @@ dependencies:
   - appmode
   - seaborn
   - statsmodels
-  - vpython
