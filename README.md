@@ -5,6 +5,7 @@
 This repository demonstrates how to create webapps with Binder. This is similar to how Shiny apps work in R.
 Using the `appmode` Jupyter plugin, a notebook's code will be run, and then only the markdown cells and
 code outputs will be shown.
+
 ----
 
 ## POST-FORKING DIFFERENCES
