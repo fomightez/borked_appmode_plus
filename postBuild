@@ -1,3 +1,6 @@
 #!/bin/bash
 
 python -c "import ipyvolume; ipyvolume.datasets.aquariusA2.fetch()"
+pip install vpnotebook
+pip install vpython
+pip install matplotlib_venn
