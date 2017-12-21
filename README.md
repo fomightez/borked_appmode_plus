@@ -1,4 +1,4 @@
-# Creating webapps with Binder with Seaborn, VPython, and other useful dependencies
+# Creating webapps with Binder that have Seaborn, VPython, and other useful dependencies
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/appmode/master?urlpath=apps%2Findex.ipynb)
 
