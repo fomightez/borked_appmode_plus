@@ -10,8 +10,9 @@ You can check out the `appmode` repository here: https://github.com/oschuett/app
 
 ----
 
-### POST-FORKING DIFFERENCES
-- I added seaborn and other useful dependencies after forking this from [here](https://github.com/binder-examples/appmode). (To determine which ones I could place in `environment.yml` to have conda handle install, I opened a Binder from appmode Binder-example and then launched terminal then searched, such as `conda search seaborn` to see if available in conda-forge, based on [here](https://conda.io/docs/user-guide/tasks/manage-pkgs.html#searching-for-packages). Nothing returned for those like `vpython` not available.)
-- Updated `launch binder` button to point out my fork.
+### Post-Fork Differences
+- I added seaborn and other useful dependencies to the `environment.yml` file after forking this from [here](https://github.com/binder-examples/appmode).  
+(To determine which ones I could place in `environment.yml` to have conda handle install, I opened a Binder from appmode Binder-example and then launched terminal then searched, such as `conda search seaborn` to see if available in conda-forge, based on [here](https://conda.io/docs/user-guide/tasks/manage-pkgs.html#searching-for-packages). Nothing returned for those like `vpython` not available.)
+- Updated `launch binder` button to point to my fork and set it to not open the .
 - Placed dependencies conda cannot handle in `postBuild`.
 
