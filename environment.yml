@@ -4,6 +4,5 @@ dependencies:
   - ipyvolume
   - appmode
   - seaborn
-  - matplotlib_venn
   - statsmodels
   - vpython
