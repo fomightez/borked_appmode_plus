@@ -6,6 +6,8 @@ This repository demonstrates how to create webapps with Binder. This is similar 
 Using the `appmode` Jupyter plugin, a notebook's code will be run, and then only the markdown cells and
 code outputs will be shown.
 
+You can check out the `appmode` repository here: https://github.com/oschuett/appmode
+
 ----
 
 ### POST-FORKING DIFFERENCES
@@ -13,6 +15,3 @@ code outputs will be shown.
 - Updated `launch binder` button to point out my fork.
 - Placed dependencies conda cannot handle in `postBuild`.
 
-----
-
-You can check out the `appmode` repository here: https://github.com/oschuett/appmode
