@@ -4,4 +4,5 @@ python -c "import ipyvolume; ipyvolume.datasets.aquariusA2.fetch()"
 pip install vpnotebook
 pip install vpython
 pip install matplotlib_venn
-pip install qgrid # see https://github.com/quantopian/qgrid-notebooks and https://pypi.python.org/pypi/qgrid
+pip install qgrid
+pip install pandas-datareader
