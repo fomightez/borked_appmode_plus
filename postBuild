@@ -7,7 +7,8 @@ pip install matplotlib_venn
 pip install qgrid
 pip install pandas-datareader
 
-
+pip install ipywidgets
+pip install jupyter_contrib_nbextensions
 
 
 jupyter contrib nbextension install --user
