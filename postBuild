@@ -6,3 +6,12 @@ pip install vpython
 pip install matplotlib_venn
 pip install qgrid
 pip install pandas-datareader
+
+
+
+
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+
+# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
+jupyter trust index.ipynb
