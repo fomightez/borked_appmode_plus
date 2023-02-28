@@ -1,3 +1,8 @@
+**NOTE APPMODE PRESENTLY DOESN'T WORK HERE.** For some reason clicking on the 'appmode' button still produces an error in regards to the hidden files as discussed [here](https://github.com/oschuett/appmode/issues/64). I haven't been able to determine what extra in that repo interferes with the fix I inistuted that works in both [my fork of the binder-example/appmode repo](https://github.com/fomightez/appmode) and [a simpler appmode example I had from demonstrating a very old fix](https://github.com/fomightez/simple_appmode_binder).
+
+
+------
+
 # Creating webapps with Binder that have Seaborn, VPython, and other useful dependencies
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/appmode_plus/master?urlpath=%2Fnotebooks%2Findex.ipynb)
