@@ -1,4 +1,4 @@
-**NOTE APPMODE PRESENTLY DOESN'T WORK HERE.** For some reason clicking on the 'appmode' button still produces an error in regards to the hidden files as discussed [here](https://github.com/oschuett/appmode/issues/64). I haven't been able to determine what extra in that repo interferes with the fix I inistuted that works in both [my fork of the binder-example/appmode repo](https://github.com/fomightez/appmode) and [a simpler appmode example I had from demonstrating a very old fix](https://github.com/fomightez/simple_appmode_binder).
+**NOTE APPMODE PRESENTLY DOESN'T WORK HERE.** For some reason clicking on the 'appmode' button still produces an error in regards to the hidden files as discussed [here](https://github.com/oschuett/appmode/issues/64). I haven't been able to determine what extra in that repo interferes with the fix I instituted that works in both [my fork of the binder-example/appmode repo](https://github.com/fomightez/appmode) and [a simpler appmode example I had from demonstrating a very old fix](https://github.com/fomightez/simple_appmode_binder).
 
 
 ------
@@ -15,7 +15,7 @@ You can check out the `appmode` repository here: https://github.com/oschuett/app
 
 ----
 
-**NOTE APPMODE PRESENTLY DOESN'T WORK HERE.** For some reason clicking on the 'appmode' button still produces an error in regards to the hidden files as discussed [here](https://github.com/oschuett/appmode/issues/64). I haven't been able to determine what extra in that repo interferes with the fix I inistuted that works in both [my fork of the binder-example/appmode repo](https://github.com/fomightez/appmode) and [a simpler appmode example I had from demonstrating a very old fix](https://github.com/fomightez/simple_appmode_binder).
+**NOTE APPMODE PRESENTLY DOESN'T WORK HERE.** For some reason clicking on the 'appmode' button still produces an error in regards to the hidden files as discussed [here](https://github.com/oschuett/appmode/issues/64). I haven't been able to determine what extra in that repo interferes with the fix I instituted that works in both [my fork of the binder-example/appmode repo](https://github.com/fomightez/appmode) and [a simpler appmode example I had from demonstrating a very old fix](https://github.com/fomightez/simple_appmode_binder).
 
 
 ### Post-Fork Differences
