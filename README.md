@@ -3,7 +3,7 @@
 
 ------
 
-# Creating webapps with Binder that have Seaborn, VPython, and other useful dependencies
+# Creating webapps with Binder that have Seaborn, VPython (NO!!), and other useful dependencies
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/borked_appmode_plus/master?urlpath=%2Fnotebooks%2Findex.ipynb)
 
