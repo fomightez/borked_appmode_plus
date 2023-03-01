@@ -5,7 +5,7 @@
 
 # Creating webapps with Binder that have Seaborn, VPython, and other useful dependencies
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/appmode_plus/master?urlpath=%2Fnotebooks%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/borked_appmode_plus/master?urlpath=%2Fnotebooks%2Findex.ipynb)
 
 This repository demonstrates how to create webapps with Binder. This is similar to how Shiny apps work in R.
 Using the `appmode` Jupyter plugin, a notebook's code will be run, and then only the markdown cells and
